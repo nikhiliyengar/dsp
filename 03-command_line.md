@@ -24,7 +24,9 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls lists the contents of a directory  
+    ls -a includes directories whose name begins with a dot  
+    
 
 ---
 
