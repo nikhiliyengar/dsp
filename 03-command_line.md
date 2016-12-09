@@ -26,6 +26,9 @@ What do the following commands do:
 
 > > ls lists the contents of a directory  
     ls -a includes directories whose name begins with a dot  
+    ls -l lists is long format  
+    ls -lh uses unit suffixes (bytes, kilobytes, megabytes etc)  
+    ls -t sorts by the time modified  
     
 
 ---
