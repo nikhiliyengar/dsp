@@ -60,7 +60,7 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 What terminal editor will you use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I plan to use vim because I'm familiar with using vi on UNIX.  
 
 --
 
@@ -68,6 +68,15 @@ What terminal editor will you use? How did you make your decision?
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I plan to use Atom. 
+   Atom has one of the best interfaces, is popular and is maintained through github.
+   Some interesting features of the editor are customizability, multiple panes, its file system browser and thousands of plug-ins.  
+   Some useful keyboard shortcuts are : ctrl-shift-m (Previews the file in the Markdown format),  
+   shift-cmd-p (Opens & closes the command palette), ctrl-shift-o (Opens up a HTTP or HTTPS link)  
+   Atom is very flexible. e.g. - Atom->Stylesheet allows styling changes, Atom->Keymap customizes keybindings.   
+   
+                                        
+                                        
+                                        
 
  
