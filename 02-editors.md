@@ -70,7 +70,7 @@ What graphical editor will you use? How did you make your decision? What are som
 
 >> I plan to use Atom. 
    Atom has one of the best interfaces, is popular and is maintained through github.
-   Some interesting features of the editor are customizability, multiple panes, its file system browser and thousands of plug-ins.  
+   Some of its interesting features are its customizability, its file system browser, multiple panes and huge number of plug-ins.  
    Some useful keyboard shortcuts are : ctrl-shift-m (Previews the file in the Markdown format),  
    shift-cmd-p (Opens & closes the command palette), ctrl-shift-o (Opens up a HTTP or HTTPS link)  
    Atom is very flexible. e.g. - Atom->Stylesheet allows styling changes, Atom->Keymap customizes keybindings.   
