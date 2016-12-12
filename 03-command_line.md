@@ -29,7 +29,7 @@ What do the following commands do:
     ls -l lists is long format  
     ls -lh lists in long format and uses unit suffixes (bytes, kilobytes, megabytes etc)  
     ls -lah lists in long format, uses unit suffixes, and includes directories whose names begin with a dot
-    ls -t lists sorted by the time modified  
+    ls -t lists sorted by the time modified    
     ls -Glp lists in long format, writes a slash after each filename if that file is a directory, and enables colorized output
     
 
@@ -39,7 +39,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > -u	Displays files by the file access time    
+    -R  Displays subdirectories as well  
+    -r	Displays files in reverse order  
+    -d	Displays only directories  
+    -m	Displays the names as a comma-separated list  
 
 ---
 
