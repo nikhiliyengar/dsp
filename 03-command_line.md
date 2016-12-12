@@ -18,6 +18,7 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
     grep -Used to search text or searches the given file for lines containing a match to the given strings or words.  
     find - Used to find files and directories using a given search criterion.
     DIR - displays files and folders in a directory.
+    hostname - the name of the computer.  
 
 ---
 
