@@ -9,7 +9,15 @@ tutorial](https://web.archive.org/web/20160708171659/http://cli.learncodethehard
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do, focused on things that are new, interesting, or otherwise worth remembering.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > $<$ The < will take and send the input from the file on the right to the program on the left.    
+    $|$ The | takes the output from the command on the left, and "pipes" it to the command on the right.    
+    $>>$ The >> takes the output of the command on the left, then appends it to the file on the right.  
+    env - sets and displays the current environment variables.  
+    pwd	- Indicates the current working directory set by the cd command.  
+    path -Indicates search path for commands. It's a colon-separated list of directories in which the shell looks for commands.  
+    grep -Used to search text or searches the given file for lines containing a match to the given strings or words.  
+    find - Used to find files and directories using a given search criterion.
+    DIR - displays files and folders in a directory.
 
 ---
 
