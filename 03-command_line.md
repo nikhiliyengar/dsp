@@ -27,8 +27,10 @@ What do the following commands do:
 > > ls lists the contents of a directory  
     ls -a includes directories whose name begins with a dot  
     ls -l lists is long format  
-    ls -lh uses unit suffixes (bytes, kilobytes, megabytes etc)  
-    ls -t sorts by the time modified  
+    ls -lh lists in long format and uses unit suffixes (bytes, kilobytes, megabytes etc)  
+    ls -lah lists in long format, uses unit suffixes, and includes directories whose names begin with a dot
+    ls -t lists sorted by the time modified  
+    ls -Glp lists in long format, writes a slash after each filename if that file is a directory, and enables colorized output
     
 
 ---
