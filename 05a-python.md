@@ -40,7 +40,7 @@ Describe Python's `lambda`. What is it, and what is it used for? Give at least o
         ('Ned Stark', 'King's Landing', 1),  
         ('Rickon Stark', 'Winterfell', 6),  
 ]  
-sorted(GOT_exit_tuples, key=lambda GOT_exit: GOT_exit[2])
+sorted(GOT_exit_tuples, key=lambda GOT_exit: GOT_exit[2])  
 [ ('Ned Stark', 'King's Landing', 1),('Rob Stark', 'The Twins', 3),('Rickon Stark', 'Winterfell', 6),]  
 ---
 
