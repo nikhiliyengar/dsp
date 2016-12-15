@@ -12,7 +12,8 @@ For quick and easy interactive practice with Python, many people enjoy [Codecade
 
 How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Lists and tuples are both collections of elements. However, lists are mutable, while tuples are immutable.   
+   Tupples will work as keys in dictionaries, because the keys of a dictionary need to be immutable, in order to be hashable.  
 
 ---
 
