@@ -3,6 +3,8 @@
 
 
 def donuts(count):
+    if (count <10): print "Number of donuts: ",d
+    else: print "Number of donuts: many"
     """
     Given an int count of a number of donuts, return a string of the
     form 'Number of donuts: <count>', where <count> is the number
