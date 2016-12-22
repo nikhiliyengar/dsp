@@ -4,7 +4,8 @@
 
 def donuts(count):
     if (count <10): print "Number of donuts: ",d
-    else: print "Number of donuts: many"
+    else: print "Number of donuts: many" 
+        
     """
     Given an int count of a number of donuts, return a string of the
     form 'Number of donuts: <count>', where <count> is the number
@@ -24,6 +25,9 @@ def donuts(count):
 
 
 def both_ends(s):
+    if ( len(s) < 2): print " '' "
+        else: com = s[0:2]+s[len(s)-2:]
+            print com
     """
     Given a string s, return a string made of the first 2 and the last
     2 chars of the original string, so 'spring' yields 'spng'.
@@ -60,7 +64,7 @@ def fix_start(s):
     """
     raise NotImplementedError
 
-
+ 
 def mix_up(a, b):
     """
     Given strings a and b, return a single string with a and b
