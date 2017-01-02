@@ -93,7 +93,8 @@ def verbing(s):
     else:
         if s[len(s)-3:] == "ing":
             print s + "ly"
-        else print s + "ing"
+        else:
+            print s + "ing"
         
     """
     Given a string, if its length is at least 3, add 'ing' to its end.
@@ -132,6 +133,17 @@ def not_bad(s):
 
 
 def front_back(a, b):
+    if (len(a)%2)==1:
+        mid_a=( len(a)/2 )+1
+    else:
+        mid_a=( len(a)/2)
+        
+    if (len(b)%2)==1:
+        mid_b=( len(b)/2 )+1
+    else:
+        mid_b=( len(b)/2)
+        
+    print a[0:mid_a]+b[0:mid_b]+a[mid_a:len(a)]+b[mid_b:len(b)]
     """
     Consider dividing a string into two halves. If the length is even,
     the front and back halves are the same length. If the length is
