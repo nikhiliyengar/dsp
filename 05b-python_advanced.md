@@ -79,8 +79,8 @@ professor_dict = {('Susan', 'Ellenberg'): ['Ph.D.', 'Professor', 'sellenbe@upenn
 
 Print the first 3 key and value pairs of the dictionary:
 
->> ('Hongzhe', 'Li') ['Ph.D.', 'Professor', 'hongzhe@upenn.edu'] 
-('Mingyao', 'Li') ['Ph.D.', 'Associate Professor', 'mingyao@mail.med.upenn.edu'] 
+>> ('Hongzhe', 'Li') ['Ph.D.', 'Professor', 'hongzhe@upenn.edu']
+('Mingyao', 'Li') ['Ph.D.', 'Associate Professor', 'mingyao@mail.med.upenn.edu']
 ('Jonas', 'Ellenberg') ['Ph.D.', 'Professor', 'jellenbe@mail.med.upenn.edu'] 
 
 
