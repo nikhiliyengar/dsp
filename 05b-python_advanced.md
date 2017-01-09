@@ -79,12 +79,19 @@ professor_dict = {('Susan', 'Ellenberg'): ['Ph.D.', 'Professor', 'sellenbe@upenn
 
 Print the first 3 key and value pairs of the dictionary:
 
->> ('Hongzhe', 'Li'): ['Ph.D.', 'Professor', 'hongzhe@upenn.edu'], ('Mingyao', 'Li'): ['Ph.D.', 'Associate Professor', 'mingyao@mail.med.upenn.edu'], ('Jonas', 'Ellenberg'): ['Ph.D.', 'Professor', 'jellenbe@mail.med.upenn.edu']
+>> ('Hongzhe', 'Li') ['Ph.D.', 'Professor', 'hongzhe@upenn.edu']
+('Mingyao', 'Li') ['Ph.D.', 'Associate Professor', 'mingyao@mail.med.upenn.edu']
+('Jonas', 'Ellenberg') ['Ph.D.', 'Professor', 'jellenbe@mail.med.upenn.edu']
 
 
 ####Q8.  It looks like the current dictionary is printing by first name.  Print out the dictionary key value pairs based on alphabetical orders of the last name of the professors
 
->> REPLACE THIS WITH YOUR RESPONSE
+>> ('Hongzhe', 'Li') ['Ph.D.', 'Professor', 'hongzhe@upenn.edu']
+('Jonas', 'Ellenberg') ['Ph.D.', 'Professor', 'jellenbe@mail.med.upenn.edu']
+('Mingyao', 'Li') ['Ph.D.', 'Associate Professor', 'mingyao@mail.med.upenn.edu']
+('Susan', 'Ellenberg') ['Ph.D.', 'Professor', 'sellenbe@upenn.edu']
+('Yimei', 'Li') ['Ph.D.', 'Assistant Professor', 'liy3@email.chop.edu']
+
 
 Place your code in this file: [advanced_python_dict.py](python/advanced_python_dict.py)
 
